@@ -1,1 +1,2 @@
-__sandbox__
+strokeWeight(1);d
+sandbox
